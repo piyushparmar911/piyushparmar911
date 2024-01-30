@@ -1,7 +1,4 @@
-##👋hello i'm parmar piyush
-
-
-<img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/03f52c9a-973e-4acb-977e-0105f384f8c8" style="margin-bottom: 40px">
+<img align="right" src="https://github.com/piyushparmar911/piyushparmar911/Document from Piyush.png" style="margin-bottom: 40px">
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <h1 align="center">
