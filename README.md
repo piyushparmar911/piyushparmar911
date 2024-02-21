@@ -8,7 +8,7 @@
 </h1>
 <br /><br />
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/jeet-jhaveri-a18187223/" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/parmar-piyush-b8b575286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img width="22" src="img/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/_piyush.parmar_/" title="Instagram Profile"><img width="22" src="img/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
