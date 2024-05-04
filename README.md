@@ -22,8 +22,6 @@
   <br>
   💻 I love writing code and like to take challenges to improve as an coder.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with React/.Net
-  <br>
   📫 How to reach me: <a href="mailto: prparmar911@gmail.com">prparmar911@gmail.com</a>
 </p>
 
