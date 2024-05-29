@@ -78,7 +78,7 @@
 <p align="center">
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/piyushparmar911/Spotify-Clone" title="Spotify-Clone"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushparmar911&repo=Spotify-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/piyushparmar911/News-app" title="News-Wave"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushparmar911&repo=News-app&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/piyushparmar911/Calcuverter" title="Calcuverter"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushparmar911&repo=Calcuverter&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 </p>
